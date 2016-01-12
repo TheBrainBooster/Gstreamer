@@ -1,9 +1,0 @@
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.Form1.resources
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.Form2.resources
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.Form4.resources
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.Form5.resources
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.Form6.resources
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.Form7.resources
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.Form8.resources
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.Resources.resources
-C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Release\Gstreamer.vbproj.GenerateResource.Cache
