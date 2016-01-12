@@ -1,0 +1,15 @@
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.Form1.resources
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.Form2.resources
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.Form4.resources
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.Form5.resources
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.Form6.resources
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.Form7.resources
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.Form8.resources
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.Resources.resources
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.vbproj.GenerateResource.Cache
+C:\Users\root\Documents\GitHub\Gstreamer\bin\Debug\Gstreamer.exe
+C:\Users\root\Documents\GitHub\Gstreamer\bin\Debug\Gstreamer.pdb
+C:\Users\root\Documents\GitHub\Gstreamer\bin\Debug\Gstreamer.xml
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.exe
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.xml
+C:\Users\root\Documents\GitHub\Gstreamer\obj\x86\Debug\Gstreamer.pdb
